@@ -1,1 +1,1 @@
-对应ce_loss文件夹，此文件夹将head改为focal_loss，发现损失下降更快
+对应ce_loss文件夹，此文件夹将head改为focal_loss，发现损失下降更快，最终结果相似
